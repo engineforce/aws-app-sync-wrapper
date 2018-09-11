@@ -1,0 +1,30 @@
+{
+  "name": "@engineforce/aws-app-sync-wrapper",
+  "version": "0.0.4",
+  "description": "Wrapper for AppSync",
+  "main": "./dist/index.js",
+  "author": "Paul Li",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "tsc && poi build",
+    "watch": "tsc -w",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@engineforce/async-lib": "^0.0.3",
+    "aws-sdk": "^2.296.0",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@engineforce/build-config": "^0.0.1",
+    "@types/jest": "^23.3.2",
+    "@types/node": "^10.9.4",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.4.2",
+    "jest": "^23.5.0",
+    "poi": "^10.2.10",
+    "regenerator-runtime": "^0.12.1",
+    "typescript": "^3.0.3"
+  }
+}
