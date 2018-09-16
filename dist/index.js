@@ -131,7 +131,7 @@ module.exports = require("lodash/filter");
 /*! ModuleConcatenation bailout: Module is not an ECMAScript module */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/paul.li/my/git/engineforce/libs/packages/aws-app-sync-wrapper/index.js */4);
+module.exports = __webpack_require__(/*! /Users/pongli/my/git/engineforce/libs/packages/aws-app-sync-wrapper/index.js */4);
 
 
 /***/ }),
