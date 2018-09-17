@@ -11,13 +11,13 @@
     "test": "jest"
   },
   "dependencies": {
-    "@engineforce/async-lib": "git+ssh://git@github.com/engineforce/async-lib.git#v0.0.4-alpha.0",
+    "@engineforce/async-lib": "0.0.4-alpha.0",
     "aws-sdk": "^2.296.0",
     "lodash": "^4.17.10"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
-    "@engineforce/build-config": "git+ssh://git@github.com/engineforce/build-config.git#v0.0.2-alpha.0",
+    "@engineforce/build-config": "0.0.2-alpha.0",
     "@types/jest": "^23.3.2",
     "@types/node": "^10.9.4",
     "babel-core": "^7.0.0-bridge.0",
