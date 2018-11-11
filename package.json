@@ -1,6 +1,6 @@
 {
   "name": "@engineforce/aws-app-sync-wrapper",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Wrapper for AppSync",
   "main": "./dist/index.js",
   "author": "Paul Li",
@@ -11,7 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@engineforce/async-lib": "github:engineforce/async-lib#v0.0.6",
+    "@engineforce/async-lib": "github:engineforce/async-lib#v0.0.7",
     "aws-sdk": "^2.296.0",
     "lodash": "^4.17.10"
   },
